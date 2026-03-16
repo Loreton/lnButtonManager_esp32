@@ -1,0 +1,19 @@
+{
+  "name": "lnButtonManager",
+  "version": "0.1.0",
+  "description": "Custom buttonManagerlibrary for ESP32 projects.",
+  "keywords": [
+    "button",
+    "esp32"
+  ],
+  "authors": [
+    {
+      "name": "Loreto",
+      "email": "tu@email.com"
+    }
+  ],
+  "license": "MIT",
+  "build": {
+    "flags": ""
+  }
+}
